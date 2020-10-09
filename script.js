@@ -1,6 +1,9 @@
-var 
+ 
 
-
+var lowerCaseChar = "abcdefghijklmnopqrstuvwxyz";
+var upperCaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var numericChar = "0123456789"
+var specialCaseChar = "~!@#$%^&*()_+";
 
 
 // Assignment Code
@@ -16,3 +19,5 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+var hello = "hello";
