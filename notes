@@ -1,12 +1,6 @@
 
-only responsiable for the javaScript part
+2 more functions to write 
+grab a random array from uptop (math.floor math.random)
 
-lots of "IF" statements
-
-caputure lower case letters
-
-capture special characters 
-
-STORING
-    Uppercase letters - if they choose that
-
+2nd function
+genrate password
